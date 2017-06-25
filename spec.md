@@ -48,8 +48,8 @@ The conditions, necessary documents for the issuance of identity documents and C
 
 ## Issuance
 
-Each C.N.P. for romanian citizens is issued by <abbr title="Directia pentru Evidenta Persoanelor si Administrarea Bazelor de Date">D.E.P.A.B.D.</abbr>, which is written on birth certificate, ID card and passport.  
-Romanian residents receive their C.N.P. from <abbr title="Inspectoratul General pentru Imigrari">I.G.I.</abbr> which is written on their resident permit.
+Each C.N.P. for romanian citizens is issued by _Directorate for Personal Records and Database Management_ ([<abbr title="Directia pentru Evidenta Persoanelor si Administrarea Bazelor de Date">D.E.P.A.B.D.</abbr>][DEPABD]), which is written on birth certificate, ID card and passport.  
+Romanian residents receive their C.N.P. from _General Inspectorate for Immigration_ ([<abbr title="Inspectoratul General pentru Imigrari">I.G.I.</abbr>][IGI]) which is written on their resident permit.
 
 ## Structure
 
@@ -186,4 +186,6 @@ A new C.N.P. is assigned to the same individual only in one of the following sit
 [H.G. 1.375/2006]: http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=67474
 [Law 122/2006]: http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=64543
 [H.G. 1.251/2006]: http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=67142
+[DEPABD]: http://depabd.mai.gov.ro/index_eng.html
+[IGI]: http://igi.mai.gov.ro/en
 [^1]: Great National Assembly. Law no. 31/1979 for the approval of the Decree of the Council of State no. 284/1979 on the establishment of Bucharest's districts. Romania: Official Bulletin no. 103/1979, 1979.
