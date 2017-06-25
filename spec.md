@@ -159,7 +159,7 @@ Component **NNN** represents a secvential number in range of `001` - `999`, whic
 
 ### C component
 
-Component **C** represents the control number ([checksum](https://en.wikipedia.org/wiki/Checksum)), used to detect potential which may have been introduced during typing, transmission and/or storage.
+Component **C** represents the control number ([checksum](https://en.wikipedia.org/wiki/Checksum)), used to detect potential errors which may have been introduced during typing, transmission and/or storage.
 
 ## Validation
 
