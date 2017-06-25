@@ -135,6 +135,8 @@ County code (*CJ*) MUST have one of the following values:
 - 44 = Bucureşti District 4
 - 45 = Bucureşti District 5
 - 46 = Bucureşti District 6
+- 47 = Bucureşti District 7 (_now defunct_)
+- 48 = Bucureşti District 8 (_now defunct_)
 - 51 = Călăraşi
 - 52 = Giurgiu
 
