@@ -10,15 +10,15 @@ The _Personal Identification Number Specification_ is licensed under [CC-BY-SA 4
 
 This document contains a technical specification for _Personal Identification Number_ (_<abbr title="Cod Numeric Personal">C.N.P.</abbr>_).
 
-In [Romania](https://en.wikipedia.org/wiki/Romania), a C.N.P. is a unique 13 (thirteen) characters number, which is assigned to each person born in Romania and romanian residents.
+In [Romania](https://en.wikipedia.org/wiki/Romania), a C.N.P. is a unique 13 (thirteen) characters number, which is assigned to each person born in Romania and Romanian residents.
 
-It was introduced in 1978 and it is used as an identifier in systems that needs to manage personal data and diferentiate individuals.
+It was introduced in 1978 and it is used as an identifier in systems that needs to manage personal data and differentiate individuals.
 
 ## Terminology
 
 When referring to _Personal Identification Number_, "C.N.P." abbreviation MUST be used. When the context doesn't allow the dots usage, like inside a code base where the syntax impose such limitation, "CNP" alternative abbreviation MAY be used.
 
-"_Cod Numeric Personal_" and/or english translation "_Personal Identification Number_" SHOULD be used to explain "C.N.P." and "CNP" abbreviations.
+"_Cod Numeric Personal_" and/or English translation "_Personal Identification Number_" SHOULD be used to explain "C.N.P." and "CNP" abbreviations.
 
 **Sample**:
 ```html
@@ -41,14 +41,14 @@ int validateCNP(char cnp[13]) { /* the code */ }
 
 The conditions, necessary documents for the issuance of identity documents and C.N.P. structure are regulated by:
 
-- [OUG no. 97/2005][OUG 97/2005] regarding the evidence, domicile, residence and identity documents of the romanian citizens, republished, with the subsequent modifications and completions.
-- [H.G. no. 1.375/2006][H.G. 1.375/2006] for the approval of Methodological Norms for the unitary application of the legal provisions regarding the romanian citizens identity, domicile, residence and identity documents, with the subsequent modifications and completions.
+- [OUG no. 97/2005][OUG 97/2005] regarding the evidence, domicile, residence and identity documents of the Romanian citizens, republished, with the subsequent modifications and completions.
+- [H.G. no. 1.375/2006][H.G. 1.375/2006] for the approval of Methodological Norms for the unitary application of the legal provisions regarding the Romanian citizens identity, domicile, residence and identity documents, with the subsequent modifications and completions.
 - [Law no. 122/2006][Law 122/2006] regarding asylum in Romania, with the subsequent modifications and completions.
 - [H.G. 1.251/2006][H.G. 1.251/2006] for the approval of the Methodological Norms on application of [Law no. 122/2006][Law 122/2006] regarding asylum in Romania.
 
 ## Issuance
 
-Each C.N.P. for romanian citizens is issued by _Directorate for Personal Records and Database Management_ ([<abbr title="Directia pentru Evidenta Persoanelor si Administrarea Bazelor de Date">D.E.P.A.B.D.</abbr>][DEPABD]), which is written on birth certificate, ID card and passport.  
+Each C.N.P. for Romanian citizens is issued by _Directorate for Personal Records and Database Management_ ([<abbr title="Directia pentru Evidenta Persoanelor si Administrarea Bazelor de Date">D.E.P.A.B.D.</abbr>][DEPABD]), which is written on birth certificate, ID card and passport.  
 Romanian residents receive their C.N.P. from _General Inspectorate for Immigration_ ([<abbr title="Inspectoratul General pentru Imigrari">I.G.I.</abbr>][IGI]) which is written on their resident permit.
 
 ## Structure
@@ -155,7 +155,7 @@ If Districts 7 and 8 are implemented, their usage SHALL be limited to dates prio
 
 ### NNN component
 
-Component **NNN** represents a secvential number in range of `001` - `999`, which differentiates individuals of same gender, born in the same place and at the same date (_i.e: AALLZZ_).
+Component **NNN** represents a sequential number in range of `001` - `999`, which differentiates individuals of same gender, born in the same place and at the same date (_i.e: AALLZZ_).
 
 ### C component
 
@@ -172,11 +172,11 @@ This control number SHALL be calculated using the constant `279146358279` as fol
 - If the division remainder is less than 10 (ten), that MUST be used as control number (**C**)
 - If the division remainder is 10 (ten), the control number (**C**) MUST be 1 (one)
 
-## Changing the CNP of an individual
+## Changing the C.N.P. of an individual
 
 A new C.N.P. is assigned to the same individual only in one of the following situations:
 
-- Birth certificate was rectified and one the informations that is part of the C.N.P. was changed.
+- Birth certificate was rectified and one of the information that is part of the C.N.P. was changed.
 - The birth certificate entry for C.N.P. has been erroneously written.
 - C.N.P. was wrongly assigned.
 - The applicant had a sex change.
