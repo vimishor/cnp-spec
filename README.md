@@ -1,4 +1,6 @@
 # Personal Identification Number Specification
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-spec.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-spec?ref=badge_shield)
+
 
 ![](https://img.shields.io/badge/status-draft-yellow.svg?style=flat-square)
 
@@ -21,3 +23,6 @@ Suggestions, contributions, criticisms are welcome on the [issue tracker][1].
 The _Personal Identification Number Specification_ is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license - see the LICENSE file for details.
 
 [1]: https://github.com/vimishor/cnp-spec/issues
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-spec.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvimishor%2Fcnp-spec?ref=badge_large)
