@@ -55,7 +55,7 @@ Romanian residents receive their C.N.P. from _General Inspectorate for Immigrati
 
 C.N.P is a 13 (thirteen) digit number, unique to each individual and consists of 7 (seven) components:
 
-    [S][AA][LL][ZZ][CJ][NNN][C]
+    [S][AA][LL][ZZ][JJ][NNN][C]
 
 ### S component
 
@@ -82,12 +82,12 @@ Component **LL** represents the month of birth in 2 (two) digits format.
 
 Component **ZZ** represents the day of birth in 2 (two) digits format.
 
-### CJ component
+### JJ component
 
-Component **CJ** is formed by 2 (two) digits and represents the County code (_and District number for Bucharest_) in which the person was born or
+Component **JJ** is formed by 2 (two) digits and represents the County code (_and District number for Bucharest_) in which the person was born or
 where (s)he was domiciled at the time when papers were issued.
 
-County code (*CJ*) MUST have one of the following values:
+County code (*JJ*) MUST have one of the following values:
 
 - 01 = Alba
 - 02 = Arad
