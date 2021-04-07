@@ -42,9 +42,9 @@ int validateCNP(char cnp[13]) { /* the code */ }
 The conditions, necessary documents for the issuance of identity documents and C.N.P. structure are regulated by:
 
 - [OUG no. 97/2005][OUG 97/2005] regarding the evidence, domicile, residence and identity documents of the Romanian citizens, republished, with the subsequent modifications and completions.
-- [H.G. no. 1.375/2006][H.G. 1.375/2006] for the approval of Methodological Norms for the unitary application of the legal provisions regarding the Romanian citizens identity, domicile, residence and identity documents, with the subsequent modifications and completions.
+- [Methodological Norms](http://legislatie.just.ro/Public/DetaliiDocumentAfis/188152) for unitary application of the legal provisions regarding the evidence, domicile, residence and identity documents of Romanian citizens.
 - [Law no. 122/2006][Law 122/2006] regarding asylum in Romania, with the subsequent modifications and completions.
-- [H.G. 1.251/2006][H.G. 1.251/2006] for the approval of the Methodological Norms on application of [Law no. 122/2006][Law 122/2006] regarding asylum in Romania.
+- [Methodological Norms](http://legislatie.just.ro/Public/DetaliiDocument/142265) for the application of [Law no. 122/2006][Law 122/2006] regarding asylum in Romania.
 
 ## Issuance
 
@@ -183,9 +183,7 @@ A new C.N.P. is assigned to the same individual only in one of the following sit
 - There are inconsistencies regarding C.N.P.
 
 [OUG 97/2005]: http://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=65141
-[H.G. 1.375/2006]: http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=67474
 [Law 122/2006]: http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=64543
-[H.G. 1.251/2006]: http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=67142
 [DEPABD]: http://depabd.mai.gov.ro/index_eng.html
 [IGI]: http://igi.mai.gov.ro/en
 [^1]: Great National Assembly. Law no. 31/1979 for the approval of the Decree of the Council of State no. 284/1979 on the establishment of Bucharest's districts. Romania: Official Bulletin no. 103/1979, 1979.
