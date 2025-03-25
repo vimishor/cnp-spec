@@ -136,9 +136,27 @@ County code (*JJ*) MUST have one of the following values:
 - 45 = București District 5
 - 46 = București District 6
 - 47 = București District 7 (_now defunct_)
-- 48 = București District 8 (_now defunct_)
+<!-- FIXME: Waiting for more information from General Directorate for Personal Records -->
+- ?? = București District 8 (_now defunct_)
+- 50 =
 - 51 = Călărași
 - 52 = Giurgiu
+- 54 =
+- 56 =
+- 60 =
+- 64 =
+- 70 = automatically generated through [S.I.I.E.A.S.C](https://www.adr.gov.ro/sistem-informatic-integrat-pentru-emiterea-actelor-de-stare-civila-siieasc/)
+- 78 =
+- 80 = registration made at Romania's diplomatic missions and consular career offices abroad
+- 81 = registration made at Romania's diplomatic missions and consular career offices abroad
+- 82 = registration made at Romania's diplomatic missions and consular career offices abroad
+- 83 = registration made at Romania's diplomatic missions and consular career offices abroad
+- 84 =
+- 87 =
+- 88 =
+- 90 =
+- 98 =
+- 99 =
 
 Regarding Bucharest's Districts, there have been some changes since Personal Identification Number was introduced in 
 1978, as follows:
